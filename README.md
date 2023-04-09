@@ -23,7 +23,7 @@ Có lẽ thứ có thể dùng được trong bài này đấy là bài viết v
 
 Đến đây có 2 cách để làm (thực ra bài này mình thêm thông tin trực tiếp vào từng ảnh để dễ hơn, cách 2 đấy chính là ngồi bấm mấy cái ALT kia rùi tự nhận ra thui :}}}}) 
 
-Cách 1: Nhìn đoạn `Foｏd ｉn Vｉetnam iｓ dｅlｉcious` trông có vẻ rất khả nghi, có lẽ là giấu 1 cái gì đó trong này, thử search **how to view hide message in twitter** thì thấy có 1 link như chúng ta cẩn [How to hide secret messages in your Twitter updates
+Cách 1: Nhìn đoạn `Foｏd ｉn Vｉetnam iｓ dｅlｉcious` trông có vẻ rất khả nghi, có lẽ là giấu 1 cái gì đó trong này, thử search **how to see hide message in twitter** thì thấy có 1 link như chúng ta cẩn [How to hide secret messages in your Twitter updates
 ](https://www.engadget.com/2014-05-09-twitter-steganography.html)
 
 ![](https://i.imgur.com/4hWzMDL.png)
