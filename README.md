@@ -42,11 +42,12 @@ account này cũng chỉ đăng 2 tweet:
 
 ![](https://i.imgur.com/Nc5aarJ.png)
 
-Thông qua kiểm tra thì thấy ảnh đầu không chứa điều gì lạ cả (Giống như  tweet của Penda Luke)
+Thông qua kiểm tra thì thấy ảnh đầu không chứa gì lạ cả (Giống như  tweet của Penda Luke)
 
 Để ý bài post mới nhất: Daisy than thở về việc lỡ xoá nhầm những tấm ánh về Việt Nam và không biết cách để tìm lại chúng --> thấy có 1 comment
 
 ![](https://i.imgur.com/g4X5Nlc.png)
+
 Điều này lại đưa chúng ta đến với 1 account mới :))) @Daisygonnaplay --> nghe có vẻ liên quan đến Daisy, chắc crush giúp đỡ :))
 
 ![](https://i.imgur.com/MNjNLCH.png)
