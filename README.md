@@ -1,14 +1,14 @@
 
 # Writeup: The Flag (OSINT)
-**Chall**
-
-![](/Problem/message.png)
+**Given file**: [Message](/Problem/message.zip)
 
 **Category**: Osint
 
 **Author**: Spid3r
 
 ### Phân tích
+![](/Problem/message.png)
+
 Trong file message có nhắc đến 1 đối tượng là **Penda Luke**  có 2 điều cần phải lưu ý:
 - Nghĩ đến việc osint người 
 - Tìm kiếm trên các nền tảng mạng xã hội là điều đầu tiền cần làm
