@@ -1,6 +1,6 @@
 
 # Writeup: The Flag (OSINT)
-**Given file**: [Message](/Problem/Message.zip)
+**Given file**: [Message](/Problem/message.zip)
 
 **Category**: Osint
 
