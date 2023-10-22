@@ -82,8 +82,6 @@ Bây giờ thì quay trở lại việc tìm password cho cái link notebin kia.
 
 password: `https://drive.google.com/drive/folders/1KKCg2A5Ks9eeRBer8Y_4LFfsbk-ZHgy2?usp=sharing`
 
-Lại mở ra 1 cái link khác :)))) (Haizz tự chê Spid3r ra đề khó nha)
-
 ![](https://i.imgur.com/v0xRqs6.png)
 
 https://mega.nz/folder/SF5kDRiC#wFEdtZS1MH10_CFaWfejRA
